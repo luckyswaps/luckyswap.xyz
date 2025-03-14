@@ -1,0 +1,21 @@
+{
+  "address": "21BTCo9hWHjGYYUQQLqjLgDBxjcn8vDt4Zic7TB3UbNE",
+  "name": "21.co Wrapped Bitcoin",
+  "symbol": "21BTC",
+  "decimals": 8,
+  "logoURI": "https://cdn.onyx.21.co/images/tokens/21BTC.png",
+  "tags": [
+    "verified",
+    "community",
+    "strict"
+  ],
+  "daily_volume": 66148.93891205826,
+  "created_at": "2024-05-28T17:26:53.609740Z",
+  "freeze_authority": null,
+  "mint_authority": "21co44cadi5BCQ5bE45vR3Fjf1mkfryYnxq9G61MJhzj",
+  "permanent_delegate": null,
+  "minted_at": "2024-05-07T07:32:39Z",
+  "extensions": {
+    "coingeckoId": "wrapped-btc-21-co"
+  }
+}

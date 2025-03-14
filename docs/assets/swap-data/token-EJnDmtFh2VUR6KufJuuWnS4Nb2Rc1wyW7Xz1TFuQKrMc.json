@@ -1,0 +1,17 @@
+{
+  "address": "EJnDmtFh2VUR6KufJuuWnS4Nb2Rc1wyW7Xz1TFuQKrMc",
+  "name": "cheddar",
+  "symbol": "CHED",
+  "decimals": 6,
+  "logoURI": "https://arweave.net/Jxl7K4hx0nfOle83_bDJpT4GrQAHOiHUvnl_aNKeVqg",
+  "tags": [
+    "unknown"
+  ],
+  "daily_volume": 429308.50673641096,
+  "created_at": "2024-06-19T19:34:12.551950Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2024-06-19T19:31:21Z",
+  "extensions": {}
+}

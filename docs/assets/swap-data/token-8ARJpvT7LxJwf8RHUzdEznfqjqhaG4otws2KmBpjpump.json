@@ -1,0 +1,18 @@
+{
+  "address": "8ARJpvT7LxJwf8RHUzdEznfqjqhaG4otws2KmBpjpump",
+  "name": "Gwenchana",
+  "symbol": "Gwenchana",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmQq43t6F9pkkj6uE5WDiWkSzro7bL7b8Qi7ytpxRzPwTP",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 97.41292113343,
+  "created_at": "2025-03-10T01:22:27.672306Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T01:22:26Z",
+  "extensions": {}
+}

@@ -1,0 +1,21 @@
+{
+  "address": "Ddm4DTxNZxABUYm2A87TFLY6GDG2ktM2eJhGZS3EbzHM",
+  "name": "DISTRIBUTE",
+  "symbol": "DISTRIBUTE",
+  "decimals": 6,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmZ2AmAYSEdrfZVdMkKhEcRDfcTbZ1xYXcyLMUjSP7ZrYA",
+  "tags": [
+    "unknown",
+    "token-2022",
+    "birdeye-trending"
+  ],
+  "daily_volume": 165384.30918044518,
+  "created_at": "2025-03-02T23:08:05.465761Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-02T21:20:36Z",
+  "extensions": {
+    "coingeckoId": "distribute"
+  }
+}

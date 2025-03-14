@@ -1,0 +1,20 @@
+{
+  "address": "FrkF4GNdqKZLuzWXTk1imqMJRGK9uxCRE3PaBKZbpump",
+  "name": "Metadrip",
+  "symbol": "DRIP",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmPNk4iu4VDxJzQ2ePRaQT51StuPAPKGZH6QxRSBw9bPTF",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 113415.64908020012,
+  "created_at": "2025-02-22T23:35:37.529835Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-22T23:35:36Z",
+  "extensions": {
+    "coingeckoId": "metadrip"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "address": "CRAMvzDsSpXYsFpcoDr6vFLJMBeftez1E7277xwPpump",
+  "name": "PEPECAT",
+  "symbol": "PEPECAT",
+  "decimals": 6,
+  "logoURI": "https://gateway.irys.xyz/7jQGuq2qUI27A4Ba5DaDDx0MCjIHL8SZI2dsGK0a_ss",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 72117.00653580819,
+  "created_at": "2024-11-27T02:19:44.984785Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2024-11-27T02:19:31Z",
+  "extensions": {
+    "coingeckoId": "pepecat-2"
+  }
+}
