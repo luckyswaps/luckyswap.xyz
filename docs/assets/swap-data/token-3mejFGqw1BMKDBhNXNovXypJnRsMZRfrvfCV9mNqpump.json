@@ -1,0 +1,18 @@
+{
+  "address": "3mejFGqw1BMKDBhNXNovXypJnRsMZRfrvfCV9mNqpump",
+  "name": "pump fwun",
+  "symbol": "FWUN",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmQJPrWrmfXZKRhUWHnTFNrksGerhRGyHww5vSCyY1MZhP",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 191.15319918491997,
+  "created_at": "2025-03-09T22:39:45.646984Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-09T22:39:44Z",
+  "extensions": {}
+}

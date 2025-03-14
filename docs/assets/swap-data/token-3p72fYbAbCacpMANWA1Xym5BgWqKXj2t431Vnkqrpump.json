@@ -1,0 +1,18 @@
+{
+  "address": "3p72fYbAbCacpMANWA1Xym5BgWqKXj2t431Vnkqrpump",
+  "name": "cat with hat",
+  "symbol": "CWH",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmVGDbsiFuLPUrsA22iX1dF7hogPA4P2PC4i7C5G7An1Vd",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 90.07540710076,
+  "created_at": "2025-03-09T21:33:35.523271Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-09T21:33:34Z",
+  "extensions": {}
+}

@@ -1,0 +1,20 @@
+{
+  "address": "oreoU2P8bN6jkk3jbaiVxYnG1dCXcYxwhwyK9jSybcp",
+  "name": "ORE",
+  "symbol": "ORE",
+  "decimals": 11,
+  "logoURI": "https://ore.supply/assets/icon.png",
+  "tags": [
+    "verified",
+    "community"
+  ],
+  "daily_volume": 32674.41927257216,
+  "created_at": "2024-08-02T23:19:16.468373Z",
+  "freeze_authority": null,
+  "mint_authority": "Dh5ZkjGD8EVujR7C8mxMyYaE2LRVarJ9W6bMofTgNJFP",
+  "permanent_delegate": null,
+  "minted_at": "2024-08-01T05:17:28Z",
+  "extensions": {
+    "coingeckoId": "ore"
+  }
+}

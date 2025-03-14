@@ -1,0 +1,18 @@
+{
+  "address": "66QLFR3jtpixFTCWR9GpSHEYsrJjNuzSJSCa1kgHpump",
+  "name": "TrenchRunner",
+  "symbol": "TRENCH",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmRcdX4TqV3TgkGzykTy53CxXZvQRqeYxNP14nbrNnCaYW",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": null,
+  "created_at": "2025-03-10T04:24:52.169784Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T04:24:51Z",
+  "extensions": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "HTze13N7z2wZNReEo8zkcQsPjAYBpoUUwx4DJL7Xpump",
+  "name": "Dill Bits",
+  "symbol": "DB",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmNrpHP3rAq3zVVDoZ6u1mtersLdT2vgaCiuWjGPvnXfQ5",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 466453.5330320467,
+  "created_at": "2025-02-21T07:06:35.190707Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-21T07:06:34Z",
+  "extensions": {}
+}

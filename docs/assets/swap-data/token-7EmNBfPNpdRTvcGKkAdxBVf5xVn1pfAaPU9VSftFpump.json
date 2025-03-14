@@ -1,0 +1,18 @@
+{
+  "address": "7EmNBfPNpdRTvcGKkAdxBVf5xVn1pfAaPU9VSftFpump",
+  "name": "KuroCoin",
+  "symbol": "Kuro",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmNfFze8BUA2TsNn21PqR914vqS2ew1e5cK2KXPhUJceMr",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 46137.72389316465,
+  "created_at": "2025-03-07T06:35:35.597738Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-07T06:35:35Z",
+  "extensions": {}
+}

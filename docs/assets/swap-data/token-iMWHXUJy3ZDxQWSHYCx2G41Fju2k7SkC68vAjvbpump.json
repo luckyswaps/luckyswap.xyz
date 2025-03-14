@@ -1,0 +1,18 @@
+{
+  "address": "iMWHXUJy3ZDxQWSHYCx2G41Fju2k7SkC68vAjvbpump",
+  "name": "Enume AI",
+  "symbol": "ENI",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmVPGoDmjK6oEp66WoFfmfprE2Gu7gCyLSzKgGkVtRVPHc",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 807.2739969837801,
+  "created_at": "2025-03-04T16:14:18.862703Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-04T16:14:18Z",
+  "extensions": {}
+}

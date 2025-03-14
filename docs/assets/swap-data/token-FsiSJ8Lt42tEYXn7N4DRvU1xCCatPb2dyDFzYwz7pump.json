@@ -1,0 +1,18 @@
+{
+  "address": "FsiSJ8Lt42tEYXn7N4DRvU1xCCatPb2dyDFzYwz7pump",
+  "name": "Yes Grok",
+  "symbol": "YesGrok",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmTQjNr3RAg9e9DTemTipN9Jf2vVfarVst2j2dxKysUw2N",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 1150.38134413624,
+  "created_at": "2025-03-09T17:44:06.699728Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-09T17:44:05Z",
+  "extensions": {}
+}

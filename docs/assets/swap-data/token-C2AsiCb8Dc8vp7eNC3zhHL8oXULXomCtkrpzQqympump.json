@@ -1,0 +1,18 @@
+{
+  "address": "C2AsiCb8Dc8vp7eNC3zhHL8oXULXomCtkrpzQqympump",
+  "name": "Just Grok It",
+  "symbol": "GrokIt",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmYf7pHrw8mrXm2aT3SZXzf8crXqepF6bP3hanU34kHejn",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 23608.34279800936,
+  "created_at": "2025-02-23T03:40:30.784800Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-23T03:40:29Z",
+  "extensions": {}
+}

@@ -1,0 +1,17 @@
+{
+  "address": "Gj41kBXAYRQYt92ywKUgr4JNHkEzvWGEaMJM4nV4rr6K",
+  "name": "POTUS BARRON",
+  "symbol": "Barron2044",
+  "decimals": 6,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmeTsPdKFbKwgrFEuuTMeg7pNc7BFiVhyt3SBGFpbYYx5A",
+  "tags": [
+    "unknown"
+  ],
+  "daily_volume": null,
+  "created_at": "2025-03-10T17:34:37.736932Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T17:34:25Z",
+  "extensions": {}
+}

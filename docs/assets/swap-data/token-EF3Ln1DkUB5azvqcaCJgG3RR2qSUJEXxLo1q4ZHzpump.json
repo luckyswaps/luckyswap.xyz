@@ -1,0 +1,18 @@
+{
+  "address": "EF3Ln1DkUB5azvqcaCJgG3RR2qSUJEXxLo1q4ZHzpump",
+  "name": "ewon wusk",
+  "symbol": "ewon",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmcgiQZBasLzqS4LkVcG1EnwTjWmHMx8P1f482KpyXUaZ5",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 382440.8763209003,
+  "created_at": "2025-03-08T17:11:17.564714Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-08T17:11:16Z",
+  "extensions": {}
+}

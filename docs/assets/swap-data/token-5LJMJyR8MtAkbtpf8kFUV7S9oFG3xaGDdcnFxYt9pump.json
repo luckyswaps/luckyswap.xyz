@@ -1,0 +1,19 @@
+{
+  "address": "5LJMJyR8MtAkbtpf8kFUV7S9oFG3xaGDdcnFxYt9pump",
+  "name": "FAT NIGGA SEASON",
+  "symbol": "FAT",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/Qmc6aX8jkY5wZ8Movtd6ebGedmKYjWge52Te6g9NA6M4Kw",
+  "tags": [
+    "unknown",
+    "launchpad",
+    "birdeye-trending"
+  ],
+  "daily_volume": 2860693.148754273,
+  "created_at": "2025-02-24T19:40:10.173840Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-24T19:40:09Z",
+  "extensions": {}
+}

@@ -1,0 +1,20 @@
+{
+  "address": "66ce7iZ5uqnVbh4Rt5wChHWyVfUvv1LJrBo8o214pump",
+  "name": "ez1",
+  "symbol": "EZ",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/bafkreid4e7hz7qeoaixqf6p5b4pex4pjtdx3hdovrwobctclzlsnraukcy",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 67081.83851663387,
+  "created_at": "2025-02-15T20:51:36.345419Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-15T20:51:35Z",
+  "extensions": {
+    "coingeckoId": "ez1-token"
+  }
+}

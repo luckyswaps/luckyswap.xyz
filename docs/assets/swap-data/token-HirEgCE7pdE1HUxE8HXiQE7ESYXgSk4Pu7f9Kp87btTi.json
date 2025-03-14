@@ -1,0 +1,18 @@
+{
+  "address": "HirEgCE7pdE1HUxE8HXiQE7ESYXgSk4Pu7f9Kp87btTi",
+  "name": "Shytoshi Kusama",
+  "symbol": "SHY",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmW8YgEmT8YS1yfjUjLnRrsJrye4Vck77Mai2e4Z85mp8o",
+  "tags": [
+    "unknown",
+    "duplicate"
+  ],
+  "daily_volume": null,
+  "created_at": "2025-03-10T16:37:53.600639Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T16:30:41Z",
+  "extensions": {}
+}

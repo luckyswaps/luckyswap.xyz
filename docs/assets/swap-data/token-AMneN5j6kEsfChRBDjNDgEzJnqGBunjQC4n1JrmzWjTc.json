@@ -1,0 +1,18 @@
+{
+  "address": "AMneN5j6kEsfChRBDjNDgEzJnqGBunjQC4n1JrmzWjTc",
+  "name": "EverMoon",
+  "symbol": "MOON",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmeNrpQrtmGVFgrCgPaSWLGNAk8Xks4Kt94RvGihfbG7K9",
+  "tags": [
+    "unknown",
+    "token-2022"
+  ],
+  "daily_volume": 16524.174126363843,
+  "created_at": "2025-03-09T23:14:15.091597Z",
+  "freeze_authority": "26LGPhwfYwYsuUYYNGBBCzzVoidWzib8cxAF2uaQE6g7",
+  "mint_authority": "26LGPhwfYwYsuUYYNGBBCzzVoidWzib8cxAF2uaQE6g7",
+  "permanent_delegate": null,
+  "minted_at": "2025-03-09T23:02:00Z",
+  "extensions": {}
+}

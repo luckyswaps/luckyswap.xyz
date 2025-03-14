@@ -1,0 +1,18 @@
+{
+  "address": "631BvY2KLFbUcQvUhK2nn2buWw1K1yfS2eMHU8t9pump",
+  "name": "Awticifical Intwelligence",
+  "symbol": "AI",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/Qma8mErNdC8dFMTTyi3gWb9FSKk71Pn8FrvAnsM9jjAfPj",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 339.11281412185,
+  "created_at": "2025-03-10T09:23:46.069750Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T09:23:45Z",
+  "extensions": {}
+}

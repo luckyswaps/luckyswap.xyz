@@ -1,0 +1,18 @@
+{
+  "address": "1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump",
+  "name": "MANSORY",
+  "symbol": "MNSRY",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmRgmdeec81h6ZY6F8pe91nDTkLcQ1iepHFQiNRXGFvgU7",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 32173.878248142577,
+  "created_at": "2025-02-26T21:28:10.656288Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-02-26T21:28:10Z",
+  "extensions": {}
+}

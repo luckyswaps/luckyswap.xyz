@@ -1,0 +1,18 @@
+{
+  "address": "7ryukpbkAdDaMgHN8TroVVuTmKpNh796dNU8VXKUpump",
+  "name": "Lola the Pup Princess",
+  "symbol": "LOLA",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmdwXxvpGRfpcL1eN45dcKSWsj9iE16eRbZudnPvPhxfTp",
+  "tags": [
+    "unknown",
+    "launchpad"
+  ],
+  "daily_volume": 365.9656658202599,
+  "created_at": "2025-03-10T06:59:36.243889Z",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "permanent_delegate": null,
+  "minted_at": "2025-03-10T06:59:35Z",
+  "extensions": {}
+}
