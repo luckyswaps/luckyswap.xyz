@@ -30,21 +30,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @coral-xyz/borsh
 Apache-2.0
 
-@dicebear/bottts
+@dicebear/core
 MIT
-Licenses
---------
-
-# Design
-Applies to all design files in this package.
-
-Source: Bottts (https://bottts.com/)
-Designer: Pablo Stanley (https://twitter.com/pablostanley)
-License: Free for personal and commercial use (https://bottts.com/)
-
-# Code
-Applies to all non-design files in this package.
-
 MIT License
 
 Copyright (c) 2024 Florian Körner
@@ -68,8 +55,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-@dicebear/core
+@dicebear/rings
 MIT
+Licenses
+--------
+
+# Design
+Applies to all design files in this package.
+
+Source: Rings (https://www.dicebear.com)
+Designer: DiceBear (https://www.dicebear.com)
+License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+# Code
+Applies to all non-design files in this package.
+
 MIT License
 
 Copyright (c) 2024 Florian Körner
