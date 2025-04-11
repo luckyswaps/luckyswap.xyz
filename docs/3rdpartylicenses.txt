@@ -55,21 +55,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-@dicebear/rings
+@dicebear/initials
 MIT
-Licenses
---------
-
-# Design
-Applies to all design files in this package.
-
-Source: Rings (https://www.dicebear.com)
-Designer: DiceBear (https://www.dicebear.com)
-License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-
-# Code
-Applies to all non-design files in this package.
-
 MIT License
 
 Copyright (c) 2024 Florian Körner
