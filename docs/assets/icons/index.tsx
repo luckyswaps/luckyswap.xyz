@@ -181,3 +181,35 @@ export const EmojiIcon = () => {
     </svg>
   );
 };
+
+export const FastExecutionIcon = () => {
+  return (
+    <svg
+      width={24}
+      height={24}
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M13 4L8 12H14L11 20"
+        stroke="#5F7385"
+        strokeWidth={2}
+        strokeLinejoin="round"
+        strokeLinecap="round"
+      />
+      <path
+        d="M5 8C3.34315 8 2 9.34315 2 11V13C2 14.6569 3.34315 16 5 16"
+        stroke="#5F7385"
+        strokeWidth={2}
+        strokeLinecap="round"
+      />
+      <path
+        d="M19 8C20.6569 8 22 9.34315 22 11V13C22 14.6569 20.6569 16 19 16"
+        stroke="#5F7385"
+        strokeWidth={2}
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+};
