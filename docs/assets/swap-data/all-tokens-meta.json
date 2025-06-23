@@ -2987,5 +2987,306 @@
     "symbol": "ITTY",
     "decimals": 6,
     "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmWustkfRd7QR1Kqno883AteVAe668Jbf9fXMuX8r2RRw4"
+  },
+  "71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg": {
+    "mintAddress": "71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg",
+    "name": "Gorbagana",
+    "symbol": "GOR",
+    "decimals": 6,
+    "logoURI": "https://upward-sport-headed.quicknode-ipfs.com/ipfs/QmQAtMVZPjsfaTJM9QErBdVqHi1bD9FCBZDr5uzGV96zhU"
+  },
+  "CtzPWv73Sn1dMGVU3ZtLv9yWSyUAanBni19YWDaznnkn": {
+    "mintAddress": "CtzPWv73Sn1dMGVU3ZtLv9yWSyUAanBni19YWDaznnkn",
+    "name": "OKX Wrapped BTC",
+    "symbol": "xBTC",
+    "decimals": 8,
+    "logoURI": "https://static.coinall.ltd/cdn/oksupport/common/20250512-095503.72e1f41d9b9a06.png"
+  },
+  "8NCievmJCg2d9Vc2TWgz2HkE6ANeSX7kwvdq5AL7pump": {
+    "mintAddress": "8NCievmJCg2d9Vc2TWgz2HkE6ANeSX7kwvdq5AL7pump",
+    "name": "BunkerCoin",
+    "symbol": "BUNKER",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcEUWz7Sfr2ytpTbg5QgYJ7LnsgkYfG3kzfUacRE4NFL7"
+  },
+  "Cpzvdx6pppc9TNArsGsqgShCsKC9NCCjA2gtzHvUpump": {
+    "mintAddress": "Cpzvdx6pppc9TNArsGsqgShCsKC9NCCjA2gtzHvUpump",
+    "name": "opensvm.com",
+    "symbol": "SVMAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRotkcKStyRt8qZ2MPsWo5qcCwinwV5xuEn7o6mBjDKAk"
+  },
+  "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA": {
+    "mintAddress": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+    "name": "Stronghold LST",
+    "symbol": "strongSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png"
+  },
+  "HKJHsYJHMVK5VRyHHk5GhvzY9tBAAtPvDkZfDH6RLDTd": {
+    "mintAddress": "HKJHsYJHMVK5VRyHHk5GhvzY9tBAAtPvDkZfDH6RLDTd",
+    "name": "READY!",
+    "symbol": "READY",
+    "decimals": 9,
+    "logoURI": "https://cdn.bravoready.com/token/READY!-coin-logo-256x256.png"
+  },
+  "CudisfkgWvMKnZ3TWf6iCuHm8pN2ikXhDcWytwz6f6RN": {
+    "mintAddress": "CudisfkgWvMKnZ3TWf6iCuHm8pN2ikXhDcWytwz6f6RN",
+    "name": "CUDIS",
+    "symbol": "CUDIS",
+    "decimals": 9,
+    "logoURI": "https://cudisipfs.mypinata.cloud/ipfs/bafkreif4y2qj6hlxiuv77is2sgkjkolctehzqz7eqlypfi5sormcvf6ei4"
+  },
+  "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL": {
+    "mintAddress": "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL",
+    "name": "Phantom Staked SOL",
+    "symbol": "PSOL",
+    "decimals": 9,
+    "logoURI": "https://assets.phantom.app/assets/metadata/PSOL-512.png"
+  },
+  "AtortPA9SVbkKmdzu5zg4jxgkR4howvPshorA9jYbonk": {
+    "mintAddress": "AtortPA9SVbkKmdzu5zg4jxgkR4howvPshorA9jYbonk",
+    "name": "IKUN",
+    "symbol": "IKUN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreieg3xfobdjms5kx2idbcxxia2w5jspjb3msgoa3b6ml7ehhqmap7q"
+  },
+  "69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump": {
+    "mintAddress": "69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump",
+    "name": "Xavier: Renegade Angel",
+    "symbol": "xavier",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmebA1sjK6DqbBByZZCKMfNRoLCKMKxSEzFWTTHSCtoMKy"
+  },
+  "93s39pnRwp5NUxvJ3A5zDWoXxKxqW4RCVzMuNsKZbonk": {
+    "mintAddress": "93s39pnRwp5NUxvJ3A5zDWoXxKxqW4RCVzMuNsKZbonk",
+    "name": "the face of sarcasm",
+    "symbol": "KAPPA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeigtp3izuvteua2bjjmot73nl4fqgcalquosnl7obo5wxdf4wd2ese"
+  },
+  "CARL1SLwhaK4eaF633jgEgYgJ7UDJmTa9XGHfMgPud5e": {
+    "mintAddress": "CARL1SLwhaK4eaF633jgEgYgJ7UDJmTa9XGHfMgPud5e",
+    "name": "Carl",
+    "symbol": "CARL",
+    "decimals": 6,
+    "logoURI": "https://bafkreid6ceogkvrudm6zm2cf6h34wqr3wf47m4hu3yjq5zvzrpdkhgrr2y.ipfs.nftstorage.link/"
+  },
+  "YUYAiJo8KVbnc6Fb6h3MnH2VGND4uGWDH4iLnw7DLEu": {
+    "mintAddress": "YUYAiJo8KVbnc6Fb6h3MnH2VGND4uGWDH4iLnw7DLEu",
+    "name": "Yala stablecoin",
+    "symbol": "YU",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/fy1UKY3u-u21ceXyR5NWbcx_jepJy3ci_Ue3hGO7urg"
+  },
+  "goSoLpeDU49kWPCt6pL4QQSPqns3c787uPTKpxH6LXW": {
+    "mintAddress": "goSoLpeDU49kWPCt6pL4QQSPqns3c787uPTKpxH6LXW",
+    "name": "GooseFX Staked SOL",
+    "symbol": "goSOL",
+    "decimals": 9,
+    "logoURI": "https://h3cc3ll4humwcgpv7dpydejweudjsbj7gmapzzhcai6frepi43la.arweave.net/PsQtrXw9GWEZ9fjfgZE2JQaZBT8zAPzk4gI8WJHo5tY"
+  },
+  "C4j7kPx9PqDnfvxe2uycJQRTAeyGwmU4DyGf21Xgpump": {
+    "mintAddress": "C4j7kPx9PqDnfvxe2uycJQRTAeyGwmU4DyGf21Xgpump",
+    "name": "Market Dominance",
+    "symbol": "MD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQ8aYZLfgCTPj9anJCAEnXx5XSKuzNK9YEVeKWpnHcdY7"
+  },
+  "73xsLcBnLnc9bh81cqVKqj8uEyiarXng5ZwJuTbnVebG": {
+    "mintAddress": "73xsLcBnLnc9bh81cqVKqj8uEyiarXng5ZwJuTbnVebG",
+    "name": "Wuffi",
+    "symbol": "WUF",
+    "decimals": 4,
+    "logoURI": "https://ipfs.io/ipfs/QmPyfiqUWpeb2VpuKAoJph7mfoeJ3uoGVt6KgRZdUwoncA"
+  },
+  "DFVeSFxNohR5CVuReaXSz6rGuJ62LsKhxFpWsDbbjups": {
+    "mintAddress": "DFVeSFxNohR5CVuReaXSz6rGuJ62LsKhxFpWsDbbjups",
+    "name": "VIBE CAT",
+    "symbol": "VIBE",
+    "decimals": 6,
+    "logoURI": "https://pub-cbb33da4f32f410580fc64b0a16759fc.r2.dev/images/DFVeSFxNohR5CVuReaXSz6rGuJ62LsKhxFpWsDbbjups"
+  },
+  "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj": {
+    "mintAddress": "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
+    "name": "Home",
+    "symbol": "HOME",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/defi-app/assets/refs/heads/main/logo/Logo.png"
+  },
+  "sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML": {
+    "mintAddress": "sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML",
+    "name": "STEAKNET Staked SOL",
+    "symbol": "STKSOL",
+    "decimals": 9,
+    "logoURI": "https://vg2375odczoslu5xk6xumcgzf73dxyb4lwjzgbvdzbbrkezojyia.arweave.net/qbW_9cMWXSXTt1evRgjZL_Y74Dxdk5MGo8hDFRMuThA"
+  },
+  "7m2TUkpPZCScBhPJnGjWjbh75KkDNnwAdd7i74m8awad": {
+    "mintAddress": "7m2TUkpPZCScBhPJnGjWjbh75KkDNnwAdd7i74m8awad",
+    "name": "World War 3",
+    "symbol": "Ww3",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmRCermmGpVrgmy5Y4xHgXD4WoYEzGxR9iM9vygUVbWHJV"
+  },
+  "3dk9CNre8tmv6bbNXd5F6dgkNnEzsyQ7sPhVT8kKpump": {
+    "mintAddress": "3dk9CNre8tmv6bbNXd5F6dgkNnEzsyQ7sPhVT8kKpump",
+    "name": "FartCat",
+    "symbol": "Fartcat",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWDZ9fyPTmRThJKdc7Yf6Za4D6FbYopPjkvq3DwRPa42K"
+  },
+  "BP8RUdhLKBL2vgVXc3n7oTSZKWaQVbD8S6QcPaMVBAPo": {
+    "mintAddress": "BP8RUdhLKBL2vgVXc3n7oTSZKWaQVbD8S6QcPaMVBAPo",
+    "name": "FAFO",
+    "symbol": "FAFO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfGZ5kJoVz1CyQbsJrivcYwXGH5e1xeTazwLW5QyWib71"
+  },
+  "CRTx1JouZhzSU6XytsE42UQraoGqiHgxabocVfARTy2s": {
+    "mintAddress": "CRTx1JouZhzSU6XytsE42UQraoGqiHgxabocVfARTy2s",
+    "name": "Carrot",
+    "symbol": "CRT",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/7G7ayDnjFoLcEUVkxQ2Jd4qquAHp5LiSBii7t81Y2E23/carrot.png"
+  },
+  "5SRer48NRfmhsut1n4ZwSAVUJAErNjdKcXTMVaxdpump": {
+    "mintAddress": "5SRer48NRfmhsut1n4ZwSAVUJAErNjdKcXTMVaxdpump",
+    "name": "gary",
+    "symbol": "GARY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbajCgqZMUhHWdkeuzWLgAU6UYqTNUjrjZPk7a8woRtnz"
+  },
+  "E43qU77tnWDwN11o7TtaGMNpxCAqz8RZEZ7PcTCUXSim": {
+    "mintAddress": "E43qU77tnWDwN11o7TtaGMNpxCAqz8RZEZ7PcTCUXSim",
+    "name": "SmoLanO",
+    "symbol": "SLO",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/2SMzEgv4IqPaiTkKe09CLodbOWbiC2rmIKRzgkFsFNs"
+  },
+  "ULwSJmmpxmnRfpu6BjnK6rprKXqD5jXUmPpS1FxHXFy": {
+    "mintAddress": "ULwSJmmpxmnRfpu6BjnK6rprKXqD5jXUmPpS1FxHXFy",
+    "name": "Hege",
+    "symbol": "HEGE",
+    "decimals": 9,
+    "logoURI": "https://bafybeichi75y3vdwt2hml4ccypddx5tou4yfhpy42z3k4lhj64vj2hinoa.ipfs.nftstorage.link"
+  },
+  "sctmWXGT7L75psrUHV2xxyTQKndE7ZcCQRHy2z6D5ER": {
+    "mintAddress": "sctmWXGT7L75psrUHV2xxyTQKndE7ZcCQRHy2z6D5ER",
+    "name": "honestSOL",
+    "symbol": "honestSOL",
+    "decimals": 9,
+    "logoURI": "https://pbs.twimg.com/profile_images/1888100598412709888/51244Jr1_400x400.jpg"
+  },
+  "3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg": {
+    "mintAddress": "3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg",
+    "name": "IMARO",
+    "symbol": "IMARO",
+    "decimals": 6,
+    "logoURI": "https://bafkreiga7utnxqdjahpdorvxz54lnewskxe7nbiwwf2w76lqumjhzgg56a.ipfs.nftstorage.link"
+  },
+  "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We": {
+    "mintAddress": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+    "name": "Stonks",
+    "symbol": "STNK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We/logo.png"
+  },
+  "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM": {
+    "mintAddress": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+    "name": "Audius (Portal)",
+    "symbol": "AUDIO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM/logo.png"
+  },
+  "DcoCE6yfxviowUKT91qKTbr31kQnFaWFAVXCTHgvJ1Tk": {
+    "mintAddress": "DcoCE6yfxviowUKT91qKTbr31kQnFaWFAVXCTHgvJ1Tk",
+    "name": "MAMMAMIA",
+    "symbol": "MAMMAMIA",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmReMQrCXLAxcVxS9c1reaVSiEwQJmoBdBbXRSsGJ6E4Hz"
+  },
+  "DEF1NXSZ8Th9n28hYBayrFtx9bj1EwwTiy3mhHEB9oyA": {
+    "mintAddress": "DEF1NXSZ8Th9n28hYBayrFtx9bj1EwwTiy3mhHEB9oyA",
+    "name": "Definity Staked SOL",
+    "symbol": "definSOL",
+    "decimals": 9,
+    "logoURI": "https://hv4gxzchk24cqfezebn3ujjz6oy2kbtztv5vghn6kpbkjc3vg4rq.arweave.net/n3W2lUNPCJpX9WXjXEl0Tx0hB57BvioKUG8pixx1A4o"
+  },
+  "12XbSPVc5hmWjKUzf5ExTysM2pEL3tM953YkMXmLWkGd": {
+    "mintAddress": "12XbSPVc5hmWjKUzf5ExTysM2pEL3tM953YkMXmLWkGd",
+    "name": "ASSAI",
+    "symbol": "ASSAI",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmRYt8YqSnhGQ6cKWDvPBir5t1iwrHmgDbYDvtBRfpe67H"
+  },
+  "5ToDNkiBAK6k697RRyngTburU7yZNFZFx7jzsD1Uc7pK": {
+    "mintAddress": "5ToDNkiBAK6k697RRyngTburU7yZNFZFx7jzsD1Uc7pK",
+    "name": "NPC Solana",
+    "symbol": "NPCS",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmVrUvzyVg75MTz34TX4DpbXvBCwkN3GLt5toMisbwCSRP"
+  },
+  "Zc4uJVrHC2APe9qKwBD11Gg4BbvQr3naM8f7Wiopump": {
+    "mintAddress": "Zc4uJVrHC2APe9qKwBD11Gg4BbvQr3naM8f7Wiopump",
+    "name": "smol pepe",
+    "symbol": "pep",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZ71y8zE9Nf6SmAPexZpHhpKi7RcUGDLiBMEAhPynfBtg"
+  },
+  "GN78Djb7J2xc2ZLZaJLoGoF8FU6x7DnK3kUJFsnDpump": {
+    "mintAddress": "GN78Djb7J2xc2ZLZaJLoGoF8FU6x7DnK3kUJFsnDpump",
+    "name": "Elon Hedgehog",
+    "symbol": "SHRUB",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPey7BPDUn3nD1XNJdaepPEyCJH1jwLcoGsXo14WoRAbd"
+  },
+  "B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7": {
+    "mintAddress": "B9u8h65uM1oifqmP82VyUDb68iG2fKfZiyubmNMtu3h7",
+    "name": "The Doge NFT (Wormhole)",
+    "symbol": "DOG",
+    "decimals": 8,
+    "logoURI": null
+  },
+  "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw": {
+    "mintAddress": "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+    "name": "GUMMY",
+    "symbol": "GUMMY",
+    "decimals": 9,
+    "logoURI": "https://bafkreih3pz2wklsnoae5zuyfvascdm3phyffimvyxbsi34rjnqzkjldopu.ipfs.nftstorage.link"
+  },
+  "Ex5DaKYMCN6QWFA4n67TmMwsH8MJV68RX6YXTmVM532C": {
+    "mintAddress": "Ex5DaKYMCN6QWFA4n67TmMwsH8MJV68RX6YXTmVM532C",
+    "name": "USDv",
+    "symbol": "USDv",
+    "decimals": 9,
+    "logoURI": "https://solomonlabs.org/assets/usdv.png"
+  },
+  "4tARAT4ssRYhrENCTxxZrmjL741eE2G23Q1zLPDW2ipf": {
+    "mintAddress": "4tARAT4ssRYhrENCTxxZrmjL741eE2G23Q1zLPDW2ipf",
+    "name": "adraLRT SOL (Solayer)",
+    "symbol": "lrtsSOL",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmWGrew8pqdHpzw2pXaFgsbicZWcGyRXiGDTy6huDdC1gu"
+  },
+  "FtTSDNLD5mMLn3anqEQpy44cRdrtAJRrLX2MKXxfpump": {
+    "mintAddress": "FtTSDNLD5mMLn3anqEQpy44cRdrtAJRrLX2MKXxfpump",
+    "name": "retardcoin",
+    "symbol": "retard",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmd61coUT8oyZ85uyZxgSvHncVyQrJEpnK7BC1n861ts5K"
+  },
+  "7iagMTDPfNSR5zVcERT1To7A9eaQoz58dJAh42EMHcCC": {
+    "mintAddress": "7iagMTDPfNSR5zVcERT1To7A9eaQoz58dJAh42EMHcCC",
+    "name": "Yakub: Creator of the White Race",
+    "symbol": "YAKUB",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmNxwMz1iQ8yBDMJ5jMU9NGPsG5KuNjMcacdwhhRH4UrnY"
+  },
+  "66ce7iZ5uqnVbh4Rt5wChHWyVfUvv1LJrBo8o214pump": {
+    "mintAddress": "66ce7iZ5uqnVbh4Rt5wChHWyVfUvv1LJrBo8o214pump",
+    "name": "ez1",
+    "symbol": "EZ",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreid4e7hz7qeoaixqf6p5b4pex4pjtdx3hdovrwobctclzlsnraukcy"
   }
 }
